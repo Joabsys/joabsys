@@ -7,6 +7,7 @@
 <img align=center alt="Joabsys-C#" height=30em width=40em src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align=center alt="Joabsys-HTML5" height=30em width=40em src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align=center alt="Joabsys-CSS3" height=30em width=40em src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align=center alt="Joabsys-JavaScript" height=30em width=40em src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
 </div>
 
