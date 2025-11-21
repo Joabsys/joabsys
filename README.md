@@ -1,8 +1,8 @@
 ## Ola! Eu sou o Joab Esequiel
 <div>
-<img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Joabsys&show_icons=true&theme=dracula">
-<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joabsys&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Joabsys's GitHub Stats" />
-</div>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=Joabsys&show_icons=true&theme=dracula">
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joabsys&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Joabsys's GitHub Stats">
+ </div>
 <div display=inline_block><br>
 <img align=center alt="Joabsys-C#" height=30em width=40em src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align=center alt="Joabsys-HTML5" height=30em width=40em src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
