@@ -1,5 +1,12 @@
 ## Ola! Eu sou o Joab Esequiel
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joabsys&show_icons=true&theme=radical)
+<div>
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Joabsys&show_icons=true&theme=dracula">
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joabsys&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Joabsys's GitHub Stats" />
+</div>
+
+
+
+
 
 <!--
 **Joabsys/joabsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
