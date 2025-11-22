@@ -5,7 +5,7 @@
 <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joabsys&theme=onedark&show_icons=true&hide_border=true&layout=compact" alt="Joabsys's GitHub Stats" />
  </div>
 <div display=inline_block><br>
-<img align=center alt="Joabsys-C#" height=30em width=40em src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align=center alt="Joabsys-C#" height=40em width=40em src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000">
 <img align=center alt="Joabsys-HTML5" height=30em width=40em src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align=center alt="Joabsys-CSS3" height=30em width=40em src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align=center alt="Joabsys-JavaScript" height=30em width=40em src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
