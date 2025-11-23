@@ -14,10 +14,10 @@
 <img align=center alt="Joabsys-JavaScript" height=30em width=40em src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.wintotal.de%2Fmedia%2F2008%2F10%2FInno_Setup_icon.png&f=1&nofb=1&ipt=36d8f2dc608da6c94c791e5f070d65598830001c4f168102495b10488d47ecbd">
 <img align=center alt="Joabsys-JavaScript" height=30em width=40em src="https://www.svgrepo.com/show/354520/visual-studio.svg">
 </div>
-<div>
+
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joabsys/Joabsys/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joabsys/Joabsys/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Joabsys/Joabsys/output/github-contribution-grid-snake.svg">
+  <img alt="" src="https://raw.githubusercontent.com/Joabsys/Joabsys/output/github-contribution-grid-snake.svg">
 </picture>
-</div>
+
