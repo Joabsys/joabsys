@@ -1,7 +1,7 @@
 ## Ola! Eu sou o Joab Esequiel
 
 <div>
-<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=Joabsys&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Joabsys's GitHub Stats">
+
 <img  height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joabsys&theme=onedark&show_icons=true&hide_border=true&layout=compact" alt="Joabsys's GitHub Stats" />
 </div>
 
