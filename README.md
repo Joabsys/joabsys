@@ -1,9 +1,9 @@
 ## Ola! Eu sou o Joab Esequiel
 
 <picture>
-  ![All Languages](https://all-languages-used.vercel.app/api/languages?username=joabsys)
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/your-github-username?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/joabsys">
+  
+  <source media="(prefers-color-scheme: dark)" srcset="https://all-languages-used.vercel.app/api/languages?username=joabsys&theme=dark">
+  <img alt="" src="https://all-languages-used.vercel.app/api/languages=ptbr&username=joabsys">
 </picture>
 
 
