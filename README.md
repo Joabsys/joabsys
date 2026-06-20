@@ -1,6 +1,9 @@
 
 <div align="left">
-## Ola! Eu sou o Joab Esequiel <br>
+  <div align="center">
+     <h1>JOAB ESEQUIEL</h1>
+  </div>
+  <h3> Jr. full developer | Análista de suporte tecnico II | Eletromecânico | Cadet @ 42 São Paulo</h3>
   
 ## 🛠️ Tecnologias
 
@@ -19,11 +22,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://all-languages-used.vercel.app/api/languages?username=joabsys&theme=dark">
   <img alt="" src="https://all-languages-used.vercel.app/api/languages=ptbr&username=joabsys">
 </picture>
-
-
-    
-
-  <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joabsys/Joabsys/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joabsys/Joabsys/output/github-contribution-grid-snake.svg">
   <img alt="" src="https://raw.githubusercontent.com/Joabsys/Joabsys/output/github-contribution-grid-snake.svg">
