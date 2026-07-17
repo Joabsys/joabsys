@@ -3,7 +3,7 @@
   <div align="center">
      <h1>JOAB ESEQUIEL</h1>
   </div>
-  <h3> Jr. full developer | Análista de suporte tecnico II | Eletromecânico | Cadet @ 42 São Paulo</h3>
+  <h3> Jr. Backend developer | Análista de suporte tecnico II | Eletromecânico | Cadet @ 42 São Paulo</h3>
   
 ## 🛠️ Tecnologias
 
